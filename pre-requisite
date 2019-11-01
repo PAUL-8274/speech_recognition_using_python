@@ -1,0 +1,27 @@
+install the package
+
+print(sr.__version__)
+
+pip install SpeechRecognition --user
+
+sudo apt-get install python-pyaudio python3-pyaudio
+
+python3 -m speech_recognition
+
+#in terminal,it will return this output
+
+#A moment of silence, please...
+
+#Set minimum energy threshold to 70.03593927678727
+
+#Say something!
+
+#Got it! Now to recognize it...
+
+#Oops! Didn't catch that
+
+#Say something!
+
+#Got it! Now to recognize it...
+
+#You said hello hello
